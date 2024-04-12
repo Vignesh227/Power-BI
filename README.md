@@ -5,4 +5,5 @@
 
 ## World Happiness Index
 
-![image](https://github.com/Vignesh227/Power-BI/assets/96369223/669a7b7f-853f-4a6b-b76f-3f35f962922b)
+![Capture](https://github.com/Vignesh227/Power-BI/assets/96369223/3384fe92-9bcb-4aed-bf9d-c010c1f39c48)
+
